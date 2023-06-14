@@ -1,3 +1,19 @@
+
+Student Management System
+The Student Management System is a web-based application built with React and powered by a backend API. It provides a user-friendly interface for managing student records, including their names, classes, and divisions. The application allows users to perform various operations such as adding new students, updating existing student information, and deleting student records.
+
+Features
+View a list of all students along with their details, including student ID, name, class, and division.
+Filter students based on their class using a search feature.
+Add new students by entering their name, class, and division.
+Update student information by editing their name, class, or division.
+Delete unwanted student records.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
